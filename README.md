@@ -1,4 +1,5 @@
 # Product_Recommender
+![olist](https://user-images.githubusercontent.com/100020447/232655983-3d99e906-f4cc-4b08-ab43-d4d6119e6d88.jpeg)
 
 This site is a product recommender built for online retailer Olist, based on the open dataset "Brazilian E-Commerce Public Dataset by Olist" on Kaggle.
 
@@ -14,3 +15,4 @@ Related skills in this project:
 
 Result:
 Recommended 20 products for 90K customers, increased customer’s average time on page by 5 mins.
+
